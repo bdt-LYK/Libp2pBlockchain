@@ -37,7 +37,7 @@ https://mycoralhealth.medium.com/code-a-simple-p2p-blockchain-in-go-46662601f417
 
 * Follow the instructions that say "Now run ...".
 
-* Open up a 2nd terminal, go to the same directory and ``gorun main.go -l 10000 -d <given address in the instructions> -secio``
+* Open up a 2nd terminal, go to the same directory and ``go run main.go -l 10000 -d <given address in the instructions> -secio``
 
   * -d : target peer to dial
 
